@@ -1,0 +1,5 @@
+import boto3
+create ec2
+key-name
+min-1
+max-1
