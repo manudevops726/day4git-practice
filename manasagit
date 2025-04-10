@@ -1,0 +1,13 @@
+BRANCHES:
+It's an individual process of development for code.
+we create individual branch in real-time to do test and developed.
+each developer will work on their own branch.
+At the end we will merge all branches into actual branch.
+Default branch is Master.
+
+git branch          : to list the branches
+git branch dev                 : to create a new branch
+git checkout dev         : to switch from one branch to another.
+git checkout -b dev             : to create and switch from one branch to another.
+git branch -m oldname newname : to rename a branch
+git branch -D dev         : to delete a branch
