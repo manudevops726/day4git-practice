@@ -1,4 +1,4 @@
-
+###############
 # to install cloud watch agent
 
 yum install amazon-cloudwatch-agent -y   
